@@ -1,8 +1,8 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Portfolio
+email: dsotomoraj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Hi I'm Daniela Soto and I'm an Art Director
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
